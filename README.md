@@ -1,4 +1,4 @@
-# Arduino Quadrature Generator
+# Arduino Hardware Quadrature Generator
 
 Uses an Arduino UNo to generate quadrature output on pins 9 & 10.
 Configurable freqnecy from ~122Hz to 4Mhz. (Lower freqencies possible) 
